@@ -10,6 +10,7 @@ My main fields are:
 - Optimization ⚙️
 - AI & Art 🎭
 
+You can find my some of the project by clicking [here](https://github.com/KutayAkalin/Projects)
 <!--
 **KutayAkalin/kutayakalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
