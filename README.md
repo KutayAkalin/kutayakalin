@@ -4,8 +4,8 @@ I am **Kutay Akalın** ⚡️
 I am a Data Scientist and Co-founder of [Funmetric](http://funmetric.io/) Game Analytic Company ✨  
 
 My main fields are:
-- Data Science and & Analytics 📈
-- Machine Learning and Deep Learning 🤖
+- Data Science & Analytics 📈
+- Machine Learning & Deep Learning 🤖
 - MLOps, Data Pipeline Building 🎛️
 - Optimization ⚙️
 - AI & Art 🎭
