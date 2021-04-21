@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hello everyone 👋
+
+I am **Kutay Akalın** ⚡️. I am a Data Scientist and Co-founder of [Funmetric](http://funmetric.io/) Game Analytic Company ✨  
+
+My main fields are:
+- Data Science and & Analytics 📈
+- Machine Learning and Deep Learning 🤖
+- MLOps, Data Pipeline Building 🎛️
+- Optimization ⚙️
+- AI & Art 🎭
 
 <!--
 **KutayAkalin/kutayakalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
