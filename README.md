@@ -11,7 +11,7 @@ My main fields are:
 - AI & Art 🎭
 - Project Management 👨‍💼
 
-You can find my some of the projects by clicking [here](https://github.com/KutayAkalin/Projects).
+You can find some of my projects by clicking [here](https://github.com/KutayAkalin/Projects).
 <!--
 **KutayAkalin/kutayakalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
