@@ -9,6 +9,7 @@ My main fields are:
 - MLOps, Data Pipeline Building 🎛️
 - Optimization ⚙️
 - AI & Art 🎭
+- Project Management 👨‍💼
 
 You can find my some of the projects by clicking [here](https://github.com/KutayAkalin/Projects).
 <!--
